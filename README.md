@@ -1,7 +1,7 @@
-printrboard
+MPB-03a
 ===========
 
-Reprap Electronics for the Printrbot
+Reprap Electronics for Magnum printers based on Printrboard
 
 For more info see the Reprap wiki page http://reprap.org/wiki/Printrboard
 
@@ -11,4 +11,4 @@ This project, and all of its design files (including the layout), is licensed un
 
 Anyone found to be in violation of this license may not produce or discribute any products using these designs, and will have legal action taken against them.
 
-If you do end up producing boards commercially, a donation of 5% of the retail price or $4 per board would greatly be appreciated. Paypal (lwalkera at ieee.org), or bitcoin 1Cy1JwPiEEVS1RYxfHHFcmJMKbFNrb1Nqd work the best.
+
